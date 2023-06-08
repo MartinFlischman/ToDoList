@@ -16,6 +16,7 @@
 		5B032BBC2A2F73BF00E2F8D2 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 5B032BBB2A2F73BF00E2F8D2 /* FirebaseFirestore */; };
 		5B032BBE2A2F73BF00E2F8D2 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5B032BBD2A2F73BF00E2F8D2 /* FirebaseFirestoreSwift */; };
 		5B032BC02A2F788700E2F8D2 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B032BBF2A2F788700E2F8D2 /* GoogleService-Info.plist */; };
+		5B2045992A324E3600F833C7 /* TDLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2045982A324E3600F833C7 /* TDLButton.swift */; };
 		5B42E2752A30D9D7008DCF9F /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B42E2742A30D9D7008DCF9F /* ProfileView.swift */; };
 		5B42E2792A30DA66008DCF9F /* NewItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B42E2782A30DA66008DCF9F /* NewItemView.swift */; };
 		5B42E27B2A30DA7C008DCF9F /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B42E27A2A30DA7C008DCF9F /* LoginView.swift */; };
@@ -41,6 +42,7 @@
 		5B032BAA2A2F6EB300E2F8D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B032BAD2A2F6EB300E2F8D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5B032BBF2A2F788700E2F8D2 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5B2045982A324E3600F833C7 /* TDLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDLButton.swift; sourceTree = "<group>"; };
 		5B42E2742A30D9D7008DCF9F /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		5B42E2782A30DA66008DCF9F /* NewItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewItemView.swift; sourceTree = "<group>"; };
 		5B42E27A2A30DA7C008DCF9F /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				5B42E2782A30DA66008DCF9F /* NewItemView.swift */,
 				5B42E2742A30D9D7008DCF9F /* ProfileView.swift */,
 				5B42E27C2A30DAE2008DCF9F /* RegisterView.swift */,
+				5B2045982A324E3600F833C7 /* TDLButton.swift */,
 				5B42E2802A30DE97008DCF9F /* ToDoListView.swift */,
 				5B42E27E2A30DE0A008DCF9F /* ToDoListItemView.swift */,
 			);
@@ -244,6 +247,7 @@
 				5B42E2892A30DFDA008DCF9F /* MainViewViewModel.swift in Sources */,
 				5B42E28B2A30DFEA008DCF9F /* NewItemViewViewModel.swift in Sources */,
 				5B032BA92A2F6EB200E2F8D2 /* MainView.swift in Sources */,
+				5B2045992A324E3600F833C7 /* TDLButton.swift in Sources */,
 				5B42E28F2A30E00F008DCF9F /* RegisterViewViewModel.swift in Sources */,
 				5B42E2812A30DE97008DCF9F /* ToDoListView.swift in Sources */,
 				5B42E27D2A30DAE2008DCF9F /* RegisterView.swift in Sources */,
